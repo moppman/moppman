@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moppman
 - 👀 I’m interested in learning all the things.
-- 💖 I love digging deep into a topic and soak up everything like a 🧽...
+- 💖 I love digging deep into a topic and soaking up everything like a 🧽...
 - 😭 ...only to realize my 🧠 is unfortunately not a 🧽.
 
 <!---
